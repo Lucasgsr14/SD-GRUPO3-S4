@@ -3,8 +3,10 @@
 # SD_Grupo3
 
 * MONTAR OS BLOCOS SEGUINDO O PADRÃO DE ACESSO A VARIÁVEIS INTERNAS:
-  * 1º NÍVEL: X{nome do sinal/de qual componente vem}:OUT (BIT OU BITARRAY) ;
-  * 2º NIVEL: X{nome do bloco}X{nome do sinal/de qual componente vem}:OUT (BIT OU BITARRAY) ;
+  * 1º NÍVEL: X_{de qual componente vem}:OUT (BIT OU BITARRAY) ;
+  * 2º NIVEL: X_{nome do bloco}_{nome do sinal/de qual componente vem}:OUT (BIT OU BITARRAY) ;
+  
+  ![IMAGEM](https://github.com/Lucasgsr14/SD-GRUPO3-S4/blob/main/Untitled%20Diagram.png)
 
 ### Quarta(10/02)! 
 
