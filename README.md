@@ -47,29 +47,29 @@ FUNÇÕES:
 
 ## ATIVIDADES LUCAS
 
- * (DATAPATH)[https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686481] 
+ *  [DATAPATH](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686481)
  
 ## ATIVIDADES ERIKA
 
- * (LD_REG)[https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686341]
- * (JMP)[https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686391]
- * (ADD)[https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686399]
- * (SUB)[https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686405]
- * (ESTADO DE INCREMENTO (DEFINIR NOME))[https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686416]
+ * [LD_REG](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686341)
+ * [JMP](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686391)
+ * [ADD](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686399)
+ * [SUB](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686405)
+ * [ESTADO DE INCREMENTO (DEFINIR NOME)](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686416)
  
 ## ATIVIDADES WESLEY
 
- * (STR)[https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686419]
- * (JZ)[https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686427]
- * (JNZ)[https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686436]
- * (AND)[https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686436]
- * (OR)[https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686443]
- 
+ * [STR](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686419)
+ * [JZ](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686427)
+ * [JNZ](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686436)
+ * [AND](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686436)
+ * [OR](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686443)
+
 ## ATIVIDADES PAULO
 
- * (MOV)[https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686447]
- * (JNC)[https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686450]
- * (JC)[https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686451]
- * (XOR)[https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686460]
- * (CMP)[https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686462]
+ * [MOV](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686447)
+ * [JNC](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686450)
+ * [JC](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686451)
+ * [XOR](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686460)
+ * [CMP](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686462)
 
