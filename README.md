@@ -3,8 +3,8 @@
 # SD_Grupo3
 
 * MONTAR OS BLOCOS SEGUINDO O PADRÃO DE ACESSO A VARIÁVEIS INTERNAS:
-  * 1º NÍVEL: X_{de qual componente vem}:OUT (BIT OU BITARRAY) ;
-  * 2º NIVEL: X_{nome do bloco}_{nome do sinal/de qual componente vem}:OUT (BIT OU BITARRAY) ;
+  * 1º NÍVEL: X_{de qual componente vem}:OUT (std_logic) ;
+  * 2º NIVEL: X_{nome do bloco}_{nome do sinal/de qual componente vem}:OUT (std_) ;
   
   ![IMAGEM](https://github.com/Lucasgsr14/SD-GRUPO3-S4/blob/main/Untitled%20Diagram.png)
 
@@ -37,6 +37,27 @@
 LD_REG, STR, MOV
 JMP, JZ, JNZ, JNC, JC
 ADD, SUB, AND, OR, NOT, XOR, CMP
+
+### Sexta(12/02)!
+
+VHDL's
+
+---
+2 Faceis = 1 médio
+2 médios = 1 difícil
+
+* Código de Máquina(1)(ASSEMBLY); - Médio - LUCAS
+* Código de Máquina(2)(ASSEMBLY); - Médio - LUCAS
+
+* Registrador IR; - Fácil - ERIKA
+* PC; - Fácil - LUCAS
+* Memória de Dados (RAM); - Médio - WESLEY
+* Memória de Intruções (ROM1, ROM2); - Fácil - WESLEY
+* ULA(Simples e Composta); - Fácil - PAULO
+* Banco de Registradores; - Médio - WESLEY
+* FlipFlops D; - Fácil - ERIKA
+* MDE; - Difícil - ERIKA
+* CPU (FINAL); - Díficil - PAULO
 
 FUNÇÕES:
 
