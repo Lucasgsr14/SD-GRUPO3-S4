@@ -35,8 +35,8 @@
  
 ### Quinta(11/02)! 
  
-* Ajeitar Datapath <- Lucas
-* Corrigir Estados da MDE <- Erika, Wesley, Paulo;
+- [x] Ajeitar Datapath <- Lucas
+- [x] Corrigir Estados da MDE <- Erika, Wesley, Paulo;
 
 LD_REG, STR, MOV
 JMP, JZ, JNZ, JNC, JC
@@ -48,21 +48,21 @@ VHDL's
 
 ---
 
-* Registrador IR; - Fácil - ERIKA
-* PC; - Fácil - LUCAS
-* Memória de Dados (RAM); - Médio - WESLEY
-* Memória de Intruções (ROM1, ROM2); - Fácil - WESLEY
-* ULA(Simples e Composta); - Fácil - PAULO
-* Banco de Registradores; - Médio - WESLEY
-* FlipFlops D; - Fácil - ERIKA
-* MDE; - Difícil - ERIKA
+- [ ] Registrador IR; - Fácil - ERIKA
+- [ ] PC; - Fácil - LUCAS
+- [ ] Memória de Dados (RAM); - Médio - WESLEY
+- [ ] Memória de Intruções (ROM1, ROM2); - Fácil - WESLEY
+- [ ] ULA(Simples e Composta); - Fácil - PAULO
+- [ ] Banco de Registradores; - Médio - WESLEY
+- [ ] FlipFlops D; - Fácil - ERIKA
+- [ ] MDE; - Difícil - ERIKA
 
 ASSEMBLY's
 
 ---
 
-* Código de Máquina(1)(ASSEMBLY); - Médio - LUCAS
-* Código de Máquina(2)(ASSEMBLY); - Médio - LUCAS
+- [ ] Código de Máquina(1)(ASSEMBLY); - Médio - LUCAS
+- [ ] Código de Máquina(2)(ASSEMBLY); - Médio - LUCAS
 
 ### Quarta(17/02)!
 
@@ -70,7 +70,7 @@ VHDL
 
 ---
 
-* CPU (FINAL); - Díficil - PAULO
+- [ ] CPU (FINAL); - Díficil - PAULO
 
 FUNÇÕES:
 
@@ -81,17 +81,45 @@ FUNÇÕES:
 
 ## ATIVIDADES LUCAS
 
+---
+
+### Quinta(11/02)!
+
  *  [DATAPATH](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686481)
+
+---
+
+### Segunda(15/02)!
+
+ * [PC]()
+ * [Código de Máquina(1)(ASSEMBLY)]()
+ * [Código de Máquina(2)(ASSEMBLY)]()
  
 ## ATIVIDADES ERIKA
+
+---
+
+### Quinta(11/02)!
 
  * [LD_REG](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686341)
  * [JMP](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686391)
  * [ADD](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686399)
  * [SUB](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686405)
  * [ESTADO DE INCREMENTO (DEFINIR NOME)](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686416)
- 
+
+---
+
+### Segunda(15/02)!
+
+ * [Registrador IR]()
+ * [FlipFlops D]()
+ * [MDE]()
+
 ## ATIVIDADES WESLEY
+
+---
+
+### Quinta(11/02)!
 
  * [STR](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686419)
  * [JZ](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686427)
@@ -99,7 +127,19 @@ FUNÇÕES:
  * [AND](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686436)
  * [OR](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686443)
 
+---
+
+### Segunda(15/02)!
+
+ * [Memória de Dados (RAM)]()
+ * [Memória de Intruções (ROM1, ROM2)]()
+ * [Banco de Registradores; - Médio - WESLEY]()
+
 ## ATIVIDADES PAULO
+
+---
+
+### Quinta(11/02)!
 
  * [MOV](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686447)
  * [JNC](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686450)
@@ -107,3 +147,14 @@ FUNÇÕES:
  * [XOR](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686460)
  * [CMP](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54686462)
 
+---
+
+### Segunda(15/02)!
+
+ * [ULA(Simples e Composta)]()
+ 
+---
+
+### Quarta(17/02)!
+
+ * [CPU(FINAL)]()
