@@ -7,6 +7,10 @@
   * 2º NIVEL: X_{nome do bloco}_{nome do sinal/de qual componente vem}:OUT (std_) ;
   
   ![IMAGEM](https://github.com/Lucasgsr14/SD-GRUPO3-S4/blob/main/Untitled%20Diagram.png)
+  
+  2 Faceis = 1 médio
+  2 médios = 1 difícil
+  total = 21 pontos (1 de 6 e 3 de 5);
 
 ### Quarta(10/02)! 
 
@@ -38,16 +42,11 @@ LD_REG, STR, MOV
 JMP, JZ, JNZ, JNC, JC
 ADD, SUB, AND, OR, NOT, XOR, CMP
 
-### Sexta(12/02)!
+### Segunda(15/02)!
 
 VHDL's
 
 ---
-2 Faceis = 1 médio
-2 médios = 1 difícil
-
-* Código de Máquina(1)(ASSEMBLY); - Médio - LUCAS
-* Código de Máquina(2)(ASSEMBLY); - Médio - LUCAS
 
 * Registrador IR; - Fácil - ERIKA
 * PC; - Fácil - LUCAS
@@ -57,6 +56,20 @@ VHDL's
 * Banco de Registradores; - Médio - WESLEY
 * FlipFlops D; - Fácil - ERIKA
 * MDE; - Difícil - ERIKA
+
+ASSEMBLY's
+
+---
+
+* Código de Máquina(1)(ASSEMBLY); - Médio - LUCAS
+* Código de Máquina(2)(ASSEMBLY); - Médio - LUCAS
+
+### Quarta(17/02)!
+
+VHDL
+
+---
+
 * CPU (FINAL); - Díficil - PAULO
 
 FUNÇÕES:
