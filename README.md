@@ -2,6 +2,13 @@
 
 # SD_Grupo3
 
+FUNÇÕES:
+
+ * LÍDER:  LUCAS G.
+ * REDATORA: ERIKA
+ * VIDEO MAKER: PAULO
+ * DEBATEDOR: WESLEY
+
 * MONTAR OS BLOCOS SEGUINDO O PADRÃO DE ACESSO A VARIÁVEIS INTERNAS:
   * 1º NÍVEL: X_{de qual componente vem}:OUT (std_logic) ;
   * 2º NIVEL: X_{nome do bloco}_{nome do sinal/de qual componente vem}:OUT (std_) ;
@@ -71,13 +78,6 @@ VHDL
 ---
 
 - [ ] CPU (FINAL); - Díficil - PAULO
-
-FUNÇÕES:
-
- * LÍDER:  LUCAS G.
- * REDATORA: ERIKA
- * VIDEO MAKER: PAULO
- * DEBATEDOR: WESLEY
 
 ## ATIVIDADES LUCAS
 
