@@ -1,13 +1,13 @@
 # SD-GRUPO3-S4
 
-# SD_Grupo3
-
 FUNÇÕES:
 
  * LÍDER:  LUCAS G.
  * REDATORA: ERIKA
  * VIDEO MAKER: PAULO
  * DEBATEDOR: WESLEY
+ 
+ ---
 
 * MONTAR OS BLOCOS SEGUINDO O PADRÃO DE ACESSO A VARIÁVEIS INTERNAS:
   * 1º NÍVEL: X_{de qual componente vem}:OUT (std_logic) ;
@@ -58,7 +58,7 @@ VHDL's
 - [ ] Registrador IR; - Fácil - ERIKA
 - [ ] PC; - Fácil - LUCAS
 - [ ] Memória de Dados (RAM); - Médio - WESLEY
-- [ ] Memória de Intruções (ROM1, ROM2); - Fácil - WESLEY
+- [ ] Memória de Instruções (ROM1, ROM2); - Fácil - WESLEY
 - [ ] ULA(Simples e Composta); - Fácil - PAULO
 - [ ] Banco de Registradores; - Médio - WESLEY
 - [ ] FlipFlops D; - Fácil - ERIKA
@@ -91,9 +91,9 @@ VHDL
 
 ### Segunda(15/02)!
 
- * [PC]()
- * [Código de Máquina(1)(ASSEMBLY)]()
- * [Código de Máquina(2)(ASSEMBLY)]()
+ * [PC](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54834539)
+ * [Código de Máquina(1)(ASSEMBLY)](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54834544)
+ * [Código de Máquina(2)(ASSEMBLY)](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54834548)
  
 ## ATIVIDADES ERIKA
 
@@ -111,9 +111,9 @@ VHDL
 
 ### Segunda(15/02)!
 
- * [Registrador IR]()
- * [FlipFlops D]()
- * [MDE]()
+ * [Registrador IR](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54834552)
+ * [FlipFlops D](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54834554)
+ * [MDE](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54834555)
 
 ## ATIVIDADES WESLEY
 
@@ -131,9 +131,9 @@ VHDL
 
 ### Segunda(15/02)!
 
- * [Memória de Dados (RAM)]()
- * [Memória de Intruções (ROM1, ROM2)]()
- * [Banco de Registradores; - Médio - WESLEY]()
+ * [Memória de Dados (RAM)](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54834562)
+ * [Memória de Instruções (ROM1, ROM2)](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54834564)
+ * [Banco de Registradores](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54834578)
 
 ## ATIVIDADES PAULO
 
@@ -151,10 +151,10 @@ VHDL
 
 ### Segunda(15/02)!
 
- * [ULA(Simples e Composta)]()
+ * [ULA(Simples e Composta)](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54834578)
  
 ---
 
 ### Quarta(17/02)!
 
- * [CPU(FINAL)]()
+ * [CPU(FINAL)](https://github.com/Lucasgsr14/SD-GRUPO3-S4/projects/1#card-54834591)
