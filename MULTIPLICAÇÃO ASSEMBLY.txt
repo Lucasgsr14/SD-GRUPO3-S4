@@ -1,0 +1,30 @@
+# R0 o multiplicando
+# R1 o multiplicador
+# R2 representa o número de iterações
+# R3 número 1
+# R4 os resultados parciais e 1 parte do final(inicia com zero)
+# R5 representa a parte mais significativa do produto
+# R6 registrador para guardar as comparações
+
+
+
+0	LDR R0, 0 	; Movendo o multiplicando para o registrador 0
+1	LDR R1, 1 	; Movendo o multiplicador para o registrador 1
+2	LDR R2, 2 	; Inicializando com zero o registrador 2
+3	LDR R3, 3 	; Inicializando com um o registrador 3
+4	LDR R4, 2 	; Inicializando com zero o registrador 4
+5	LDR R5, 2 	; Inicializando com zero o registrador 5
+6	ADD R4, R4, R0 	; Incrementando o valor de R4 com o valor do multiplicando
+7	JC 9		; Se tiver valor de carry vai para a linha 9
+8	JNC 14		; Se não tiver o valor de carry vai para a linha 14
+9	ADD R2, R2, R3 	; Incrementa o registrador R2 responsável pelo número de iterações 
+10	ADD R5, R5, R3  ; Incrementa o registrador R5 responsável pela parte mais significativa do produto da multiplicação 
+11	CMP R6, R2, R1	; Comparação do valor de iterações com o valor do multiplicador
+12	JNZ 18		; Caso o valor da ULA não seja zero vai para a linha do HLT(18)
+13	JZ 6		; Caso o valor da ULA seja zero vai para o início da intrução de multiplicação(6)
+14	ADD R2, R2, R3 	; Incrementa o registrador R2 responsável pelo número de iterações
+15	CMP R6, R2, R1	; Comparação do valor de iterações com o valor do multiplicador
+16	JNZ 18		; Caso o valor da ULA não seja zero vai para a linha do HLT(18)
+17	JZ 6		; Caso o valor da ULA seja zero vai para o início da intrução de multiplicação(6)
+18	HLT
+
