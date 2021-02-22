@@ -55,21 +55,21 @@ VHDL's
 
 ---
 
-- [ ] Registrador IR; - Fácil - ERIKA
-- [ ] PC; - Fácil - LUCAS
-- [ ] Memória de Dados (RAM); - Médio - WESLEY
-- [ ] Memória de Instruções (ROM1, ROM2); - Fácil - WESLEY
-- [ ] ULA(Simples e Composta); - Fácil - PAULO
-- [ ] Banco de Registradores; - Médio - WESLEY
-- [ ] FlipFlops D; - Fácil - ERIKA
-- [ ] MDE; - Difícil - ERIKA
+- [x] Registrador IR; - Fácil - ERIKA
+- [x] PC; - Fácil - LUCAS
+- [x] Memória de Dados (RAM); - Médio - WESLEY
+- [x] Memória de Instruções (ROM1, ROM2); - Fácil - WESLEY
+- [x] ULA(Simples e Composta); - Fácil - PAULO
+- [x] Banco de Registradores; - Médio - WESLEY
+- [x] FlipFlops D; - Fácil - ERIKA
+- [x] MDE; - Difícil - ERIKA
 
 ASSEMBLY's
 
 ---
 
-- [ ] Código de Máquina(1)(ASSEMBLY); - Médio - LUCAS
-- [ ] Código de Máquina(2)(ASSEMBLY); - Médio - LUCAS
+- [x] Código de Máquina(1)(ASSEMBLY); - Médio - LUCAS
+- [x] Código de Máquina(2)(ASSEMBLY); - Médio - LUCAS
 
 ### Quarta(17/02)!
 
@@ -77,7 +77,7 @@ VHDL
 
 ---
 
-- [ ] CPU (FINAL); - Díficil - PAULO
+- [x] CPU (FINAL); - Díficil - PAULO
 
 ## ATIVIDADES LUCAS
 
